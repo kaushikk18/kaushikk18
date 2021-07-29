@@ -1,6 +1,6 @@
 - 👋 Hi there! This is Kaushik
-- 👀 I’m interested in web development 
--  🌱 I’m currently learning front end development
+- 👀 I’m an aspiring full stack developer
+- 🌱 I’m currently learning front end development
 
 <!---
 kaushikk18/kaushikk18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
