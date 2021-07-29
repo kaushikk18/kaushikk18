@@ -1,5 +1,5 @@
 - 👋 Hi there! This is Kaushik
-- 👀 I’m interested in web development and software development
+- 👀 I’m interested in web development 
 -  🌱 I’m currently learning front end development
 
 <!---
