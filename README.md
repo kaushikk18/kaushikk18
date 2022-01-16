@@ -17,13 +17,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-  _                       _      _  _    
- | |                     | |    (_)| |   
- | | __ __ _  _   _  ___ | |__   _ | | __
- | |/ // _` || | | |/ __|| '_ \ | || |/ /
- |   <| (_| || |_| |\__ \| | | || ||   < 
- |_|\_\\__,_| \__,_||___/|_| |_||_||_|\_\
-                                         
+                                      
                                          
 
 <!---
