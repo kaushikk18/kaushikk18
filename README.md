@@ -2,7 +2,7 @@
 
 - 👋 Hi there! This is Kaushik
 - 👀 I’m an aspiring full stack developer
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning **Ethereum**
 
 ### Languages and Tools:
 
