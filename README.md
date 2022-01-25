@@ -1,6 +1,6 @@
 ## I'm a Student, Developer, and a Human!!
 
-Hi there! This is kaushik 👋 You can find my works and the things i tried here!
+### Hi there! This is kaushik 👋 You can find my works and the things i tried here!
 
 <!-- - 👋 Hi there! This is Kaushik -->
 - 👀 I’m an aspiring full stack developer
