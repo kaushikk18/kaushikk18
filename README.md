@@ -6,8 +6,9 @@
 - 👀 I’m an aspiring full stack developer
 - 🌱 I’m currently learning **Ethereum**
 - ❤️ I love comments
-
-#### My portfolio - https://kaushikk18.github.io/portfolio/
+<!-- 
+#### My portfolio - https://kaushikk18.github.io/portfolio/ -->
+#### <a href="https://kaushikk18.github.io/portfolio/">My Portfolio</a>
 
 ### Languages and Tools:
 
